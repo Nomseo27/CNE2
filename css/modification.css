@@ -1,0 +1,58 @@
+
+#navbar {
+    
+}
+
+body {
+    background-image: url(../images/airplane.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.0);
+    box-shadow: none;
+}
+
+.responsive-img {
+    margin: 10px;
+}
+
+.nav-wrapper {
+    position:sticky;
+}
+
+
+
+#para {
+    background-image: url(../images/seaf.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 300px;
+}
+
+#para2 {
+    height: 200px;
+    font-size: 30px;
+}
+
+#head {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#large-text {
+    font-family: 35px;
+}
+
+#cover {
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 20px;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+#slogan {
+    font-size: 3em;
+}
